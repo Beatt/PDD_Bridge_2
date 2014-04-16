@@ -8,6 +8,7 @@ import pdd.proxy2.entity.SpaceBook;
 /**
  * Objetivo: implementa la interface de IBridge y 
  * 	define su implementación concreta.
+ * Una abstracción diferente.
  * @author beat
  *
  */
