@@ -8,6 +8,14 @@ import pdd.proxy2.proxy.MySpaceBook;
 public class Test {
 
 	/**
+	 * Patron bridge: 
+	 * 	--Puedes usarlo cuando tengas operaciones que no siempre 
+	 * 		necesiten estar implementadas de la misma manera.
+	 * 
+	 * 	--Evitar unir la implementación directamente con la abstracción.
+	 * 	--Ocultar por completo la implementación a los clientes.
+	 * 	--Cambiar una implementación sin recopilar la abstracción.
+	 * 	--Comibar diferentes partes del sistema en ejecución.
 	 * @param args
 	 */
 	public static void main(String[] args) {
